@@ -1,0 +1,12 @@
+name: DC_Deck_Choice
+title: DC_Deck_Choice
+username: aliquanto
+account: aliquanto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9961154
+bundleId: 7717406
+url: https://aliquanto.shinyapps.io/DC_Deck_Choice/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
